@@ -1,4 +1,4 @@
 # provider_consumer_project
 
-Demonstrating Provider-Consumer State Management using basic flutter app
+Demonstrating State Management using Provider-Consumer in a basic flutter app
 
